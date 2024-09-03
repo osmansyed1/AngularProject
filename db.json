@@ -1,0 +1,30 @@
+{
+  "users": [
+    {
+      "id": "bf84",
+      "department": "IT",
+      "name": "Jackson Os",
+      "mobile": "84753",
+      "email": "abc@g",
+      "gender": "male",
+      "doj": "2024-09-04",
+      "city": "Bengalore",
+      "salary": "07646",
+      "address": "India",
+      "status": true
+    },
+    {
+      "id": "ee54",
+      "department": "Hr",
+      "name": "Elite",
+      "mobile": "765465",
+      "email": "ghw@gc",
+      "gender": "male",
+      "doj": "2024-09-18",
+      "city": "Hubli",
+      "salary": "570",
+      "address": "Ploat-333",
+      "status": true
+    }
+  ]
+}
